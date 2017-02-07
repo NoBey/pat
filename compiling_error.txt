@@ -1,0 +1,10 @@
+/Users/NoBey/pat/数字分类.cpp:60:9: error: cannot initialize a variable of type 'int' with an rvalue of type 'void'
+    int tmp = a2.pop();
+        ^     ~~~~~~~~
+/Users/NoBey/pat/数字分类.cpp:77:9: error: cannot initialize a variable of type 'int' with an rvalue of type 'void'
+    int tmp = a4.pop();
+        ^     ~~~~~~~~
+/Users/NoBey/pat/数字分类.cpp:83:9: error: cannot initialize a variable of type 'int' with an rvalue of type 'void'
+    int tmp = a5.pop();
+        ^     ~~~~~~~~
+3 errors generated.
